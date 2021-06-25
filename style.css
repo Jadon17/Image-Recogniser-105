@@ -1,0 +1,22 @@
+body {
+    background-color: lightsalmon;
+    color: black;
+}
+.heading {
+    font-size: 30px;
+    width: 80%;
+}
+.object_name {
+    font-size: 18px;
+    color: cadetblue;
+}
+#camera, #result {
+    border: 2px dashed grey;
+    width: 350px;
+    height: 300px;
+    margin-top: 5px;
+}
+#result_objectname , #result_objectaccuracy{
+    color : yellow;
+    
+}
